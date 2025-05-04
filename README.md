@@ -16,7 +16,7 @@ Quick-reference table of your key skills:
 ## Projects
 Quick links to your most impressive projects with 1-line descriptions:
 
-1. [Customer Segmentation Analysis](./projects/customer-segmentation/) - RFM analysis and k-means clustering to optimize marketing campaigns
+1. [Analyzing-Linkedin-job-posting-in-Data-related-roles) - Analysis job posting in data role platform linked in BY Exel tool 
 2. [Sales Forecasting Model](./projects/sales-forecasting/) - Time series analysis with 92% accuracy in predicting quarterly sales
 3. [Healthcare Cost Prediction](./projects/healthcare-costs/) - Random forest regression model to predict patient costs
 
